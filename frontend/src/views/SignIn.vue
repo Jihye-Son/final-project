@@ -326,7 +326,7 @@ export default {
         },
         loginWithKakao() {
             if (window.Kakao.isInitialized() == false) {
-                window.Kakao.init('255b187f87731368f5e47c3310b3cf02');
+                window.Kakao.init('718ddcda2468585f014e650a9231e4e4');
             }
             window.Kakao.Auth.login({
                 success: this.kakaoLoginCheck(),
@@ -426,7 +426,7 @@ export default {
         else
             this.setPath('/')
 
-        const naver_id_login = new window.naver_id_login("INmTkpuK5mPhbhHfYG_Q", "http://118.67.128.121:8085/authentication/signIn/naver");
+        const naver_id_login = new window.naver_id_login("8wGbrmNxZFLB0_BomNmr", "http://49.50.160.212:8085/authentication/signIn/naver");
         let link = document.location.href;
         if (link.indexOf('access_token') != -1) {
             this.naverLogin(naver_id_login.getAccessToken());
