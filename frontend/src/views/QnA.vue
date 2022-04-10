@@ -32,8 +32,8 @@ export default {
     },
     methods: {
         currentURL() {
-            let link = document.location.href;
-            link = link.substring(26, link.length);
+            let link = this.$route.path;
+            link = link.slice(5, link.length);
             let pageList = [{
                 text: '상품문의',
                 value: 'productQnA',

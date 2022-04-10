@@ -116,8 +116,8 @@ export default {
                 page,
                 itemsPerPage
             } = this.options
-            let link = document.location.href;
-            link = link.slice(26, link.length - 3);
+            let link = this.$route.path;
+            link = link.slice(5, link.length - 3);
             axios.get(`/api/qna/getQnaListByType`, {
                 params: {
                     page: page,
