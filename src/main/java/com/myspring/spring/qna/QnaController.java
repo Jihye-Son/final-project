@@ -136,16 +136,4 @@ public class QnaController {
 		return new ResponseEntity<byte[]>(imageByteArray, HttpStatus.OK);
 	}
 
-//	//기간으로 문의 검색(일주일)
-//	@GetMapping("/qna/searchQnaByWeek") public ResponseEntity<?>
-//	searchQnaByWeek(){ return qnaService.searchQnaByWeek(); }
-//	  
-//	//기간으로 문의 검색(한달)  
-//	@GetMapping("/qna/searchQnaByMonth") public ResponseEntity<?>
-//	searchQnaByMonth(){ return qnaService.searchQnaByMonth(); }
-//	  
-//	//기간으로 문의 검색(세달)
-//	@GetMapping("/qna/searchQnaByMonths") public ResponseEntity<?>
-//	searchQnaByMonths(){ return qnaService.searchQnaByMonths(); }
-
 }

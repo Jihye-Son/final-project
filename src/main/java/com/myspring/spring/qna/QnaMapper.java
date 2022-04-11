@@ -94,18 +94,5 @@ public interface QnaMapper {
 	@SelectProvider(type = QnaUtils.class, method = "getQnaCount")
 	int getQnaCount(String search, String searchWord, int productNo, String id);
 	
-	
-
-//	//기간으로 문의 검색(최근 일주일)
-//	@Select("select * from qnatable where regDate between DATE_ADD(NOW(), INTERVAL -1 WEEK) and NOW()")
-//	List<QnaVO> searchQnaByWeek();
-//
-//	//기간으로 문의 검색(최근 한달)
-//	@Select("select * from qnatable where regDate between DATE_ADD(NOW(), INTERVAL -1 MONTH) and NOW()")
-//	List<QnaVO> searchQnaByMonth();
-//
-//	//기간으로 문의 검색(최근 세달)
-//	@Select("select * from qnatable where regDate between DATE_ADD(NOW(), INTERVAL -3 MONTH) and NOW()")
-//	List<QnaVO> searchQnaByMonths();
 
 }
