@@ -1,16 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Shopping&nbsp;Mall&nbsp;Project&nbsp;SPRING&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Shopping&nbsp;Mall&nbsp;SPRING&fontSize=45)
 
 <h1> 🌸 Welcome to SPRING! 🌸 </h1>
-<p>Hi there! This is a shopping mall website for feminine clothes:)<br> SPRING webstie offers awesome features for administrations and customers both!<br> Let me introduce you this amazing website SPRING !</p>
+<p>Hi there! This is a shopping mall website for feminine clothes:)<br> SPRING website offers awesome features for both administrators and customers!<br> Let me introduce you this amazing website SPRING !</p>
 <br>
 <img src="https://user-images.githubusercontent.com/80922358/162683345-022ed224-effb-4779-9377-b4f25bab289f.JPG", width="800" height="400">
-<p> Come and Enjoy your online shopping in SPRING! 🥰 : http://49.50.160.212:8085/ </p>
-<p> You will be able to watch a video about the SPRING website introduction for users <br> here : https://youtu.be/hwkDkKlhMPU  <br> and for administrations <br>here : https://youtu.be/rQA9h6srl5k </p>
+<p> Come and Enjoy online shopping on SPRING! 🥰 : http://49.50.160.212:8085/ </p>
+<p> You will be able to watch a video introducing the SPRING website ! <br> for users : https://youtu.be/hwkDkKlhMPU  <br> for administrators : https://youtu.be/rQA9h6srl5k </p>
 <br><br>
 
-<h2> 💡 What're the outstanding features in SPRING </h2>
+<h2> 💡 What're the outstanding features on SPRING </h2>
 <p>👉 CHATBOT (NAVER CLOVAR CHATBOT)<br>
-&nbsp;&nbsp;&nbsp;(The chatbot feature is going to be expired by 04/11/2022.) </p>
+&nbsp;&nbsp;&nbsp;(The chatbot is going to be expired by 04/11/2022.) </p>
 <img src="https://user-images.githubusercontent.com/80922358/162690184-d0b27530-397f-4b8d-b34d-4e6d7b7c43b7.png", width="300" height="400">
 <p>👉 ADMIN PAGE <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 상품 관리 <br>
@@ -31,7 +31,7 @@
 <img src="https://user-images.githubusercontent.com/80922358/162691500-05401ba0-76e2-4fa7-917f-b158a4d4f199.png", width="800" height="400">
  <br><br>
 
-<h2> 🧰What're used for this project </h2>
+<h2> 🧰What we used for this project </h2>
 
 <li>Frameworks : <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></li> 
 <li>Libraries : <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Axios-800080?style=flat-square&logo=Axios&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"/>
@@ -40,15 +40,14 @@
 <li>Database : <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/>
   <br><br>
  
-<h2> 💻 What I work hard on the most for this project : COMMUNITY - QNA</h2>
+<h2> 💻 What I worked on the most for this project : COMMUNITY - QNA</h2>
  
 <h3> 🧑‍🤝‍🧑 USER.ver 🧑‍🤝‍🧑</h3>
 <h4>QNA - 상품문의, 배송문의, 배송 전 변경/취소, 배송 후 교환/반품 (페이지 구성 동일)</h4>
 <img src="https://user-images.githubusercontent.com/80922358/162692783-d399a9b1-3341-447c-b3da-a864b5f1cdf1.JPG", width="800" height="400">
 <h5>1️⃣ 게시판 목록 출력 : 유형별(상품, 배송, 변경/취소, 교환/반품) 문의 항목 출력</h5>
 <h5>2️⃣ 검색 기능 : 작성자, 상품명으로 검색 가능</h5>
- <img src="https://user-images.githubusercontent.com/80922358/162699254-83505c6d-0f53-44a0-a979-5fec62d19539.JPG", width="800" height="400" />
-
+  <img src="https://user-images.githubusercontent.com/80922358/162878840-2b3e16cf-5596-46c9-84f8-37c04278a803.JPG", width="800" height="400" />
 
 <h5>3️⃣ 글쓰기 기능 : 글쓰기 버튼 클릭하여 글쓰기 페이지로 이동</h5>
 <h5>4️⃣ 사진 첨부 기능 : 사진 파일 4개까지 첨부 가능</h5>
@@ -70,5 +69,15 @@
 <br>
  
 <h3> 👨‍💼 ADMIN.ver 👨‍💼</h3>
+<h4>QNA - 상품문의, 배송문의, 배송 전 변경/취소, 배송 후 교환/반품 (페이지 구성 동일)</h4>
+<img src="https://user-images.githubusercontent.com/80922358/162878607-716fc484-2647-4daf-93db-cff45cf5c8ec.JPG", width="800" height="400">
+ <img src="https://user-images.githubusercontent.com/80922358/162878622-c621084f-28d8-46c5-b961-28fa93229825.JPG", width="800" height="400">
+
+<h5>1️⃣ 미답변 버튼 : 미답변한 문의글만 따로 출력</h5>
+<h5>2️⃣ 답변하기 : 문의글에 대한 답변 기능 (해당 문의글 아래에 출력)</h5>
+ 
+ <br><br><br>
+ 
+**THANK YOU FOR VISITING ❤️**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
