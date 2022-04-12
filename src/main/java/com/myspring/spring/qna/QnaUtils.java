@@ -1,8 +1,5 @@
 package com.myspring.spring.qna;
 
-import java.util.List;
-
-import org.apache.ibatis.annotations.Select;
 import org.apache.ibatis.jdbc.SQL;
 
 public class QnaUtils {

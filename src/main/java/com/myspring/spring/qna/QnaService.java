@@ -246,30 +246,5 @@ public class QnaService {
 
 	}
 
-//	//기간으로 문의 검색(일주일)
-//	public ResponseEntity<?> searchQnaByWeek() {
-//		List<QnaVO> res = qnaMapper.searchQnaByWeek();
-//		if(res == null)
-//			return new ResponseEntity<>(res, HttpStatus.INTERNAL_SERVER_ERROR);
-//		else
-//			return new ResponseEntity<>(res, HttpStatus.OK);
-//	}
-//	
-//	//기간으로 문의 검색(한달)
-//	public ResponseEntity<?> searchQnaByMonth() {
-//		List<QnaVO> res = qnaMapper.searchQnaByMonth();
-//		if(res == null)
-//			return new ResponseEntity<>(res, HttpStatus.INTERNAL_SERVER_ERROR);
-//		else
-//			return new ResponseEntity<>(res, HttpStatus.OK);
-//	}
-//	//기간으로 문의 검색(세달)
-//	public ResponseEntity<?> searchQnaByMonths() {
-//		List<QnaVO> res = qnaMapper.searchQnaByMonths();
-//		if(res == null)
-//			return new ResponseEntity<>(res, HttpStatus.INTERNAL_SERVER_ERROR);
-//		else
-//			return new ResponseEntity<>(res, HttpStatus.OK);
-//	}
 
 }
